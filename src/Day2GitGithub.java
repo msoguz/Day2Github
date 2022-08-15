@@ -11,8 +11,13 @@ public class Day2GitGithub {
         Yalniz git push komutunu direkt kullanmak istersek 1 kez
                a) git remote add origin -adress-
                b) git push -u origin master
-        Not: Bu iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece git push kullaniriz.
+        Not 1: Bu iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece git push kullaniriz.
+        Not 2: git log --oneline Commitlerimdeki yani version'larimdaki durumu gosterirgit
 
 
      */
+    public static void main(String[] args) {
+        System.out.println("Deneme");
+
+    }
 }
